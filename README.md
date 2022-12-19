@@ -34,5 +34,7 @@
 
 ## Methodology
 > <b>In an attempt to test the client's hypothesis, that the customer churn the business is experiencing is driven by the customers' sensitivity to price as well as develop a working prdictyive model that would succefully predict the likelihood of a customer to churn. I would need to model the customers churn probabilities, investigating the effect of price on churning rate. I would be obtaining the client's customer dataset that should have the following customer information as features:
-> - <b>Customers data - this should comprise of the characteristic demographic information of each customer, service consumption history for each customer, the historical price data for each customer etc.
-> - Churn data - which should clearly indicate if a particular customer has churned.<b/> 
+  > - <b>Customers who left within a stipulated period that would be determined during the course of this investigation; this is the churn feature of the dataset.
+> - Utility that each customer has signed up for – electricity, gas or any other utility that the client; PowerCO offers to its customers.
+> - Customer account information – how long they had been a customer, contract, payment method, paperless billing, monthly charges, and total charges and every other informaton relevant to the customer account base.
+> - Demographic information for each customers.<b/>
