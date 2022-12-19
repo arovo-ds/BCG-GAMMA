@@ -31,3 +31,8 @@
 > <b>PowerCO would like to explore the possibility of predicting the customers that likely to churn using a predictive model. PowerCO also believes as an hypothesis that the churn is driven by customers price sensitity.
 >
 > <b>It is noteworthy to mention that the head of SME division is considering and proposing that the business offers the customers that are churn risk an incentivising discount of 20% which is large enough to disuade anyone from churning, especially those for whom price is a primary concern.
+
+## Methodology
+> <b>In an attempt to test the client's hypothesis, that the customer churn the business is experiencing is driven by the customers' sensitivity to price as well as develop a working prdictyive model that would succefully predict the likelihood of a customer to churn. I would need to model the customers churn probabilities, investigating the effect of price on churning rate. I would be obtaining the client's customer dataset that should have the following customer information as features:
+> - <b>Customers data - this should comprise of the characteristic demographic information of each customer, service consumption history for each customer, the historical price data for each customer etc.
+> - Churn data - which should clearly indicate if a particular customer has churned.<b/> 
